@@ -1,0 +1,185 @@
+[
+  {
+    "archived": false,
+    "desc": "implementation of AFD and AFN using java",
+    "language": "Java",
+    "name": "AFD-AFN_impl",
+    "stars": 0,
+    "topics": [],
+    "updated": "2024-12-13T21:39:52Z",
+    "url": "https://github.com/lucaslimacodes/AFD-AFN_impl"
+  },
+  {
+    "archived": false,
+    "desc": "código em python com funções utilizadas na cadeira de física experimental",
+    "language": "Python",
+    "name": "aux-lio-F-sica-experimental",
+    "stars": 0,
+    "topics": [],
+    "updated": "2023-12-01T19:34:59Z",
+    "url": "https://github.com/lucaslimacodes/aux-lio-F-sica-experimental"
+  },
+  {
+    "archived": false,
+    "desc": null,
+    "language": "Python",
+    "name": "carrinho_grupo_1",
+    "stars": 0,
+    "topics": [],
+    "updated": "2025-12-11T19:48:15Z",
+    "url": "https://github.com/lucaslimacodes/carrinho_grupo_1"
+  },
+  {
+    "archived": false,
+    "desc": "Repositório oficial da disciplina de Criatividade Computacional do CIn/UFPE",
+    "language": null,
+    "name": "criacomp",
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-09-10T21:39:22Z",
+    "url": "https://github.com/lucaslimacodes/criacomp"
+  },
+  {
+    "archived": false,
+    "desc": "repository made to submit the challenge from neurotech",
+    "language": "Java",
+    "name": "Currency-neurotech-challenge",
+    "stars": 0,
+    "topics": [],
+    "updated": "2025-02-06T15:41:26Z",
+    "url": "https://github.com/lucaslimacodes/Currency-neurotech-challenge"
+  },
+  {
+    "archived": false,
+    "desc": "springboot",
+    "language": null,
+    "name": "curso-springboot-fuctura",
+    "stars": 0,
+    "topics": [],
+    "updated": "2022-09-01T23:56:03Z",
+    "url": "https://github.com/lucaslimacodes/curso-springboot-fuctura"
+  },
+  {
+    "archived": false,
+    "desc": "Repositório referente ao desafio técnico do grupo RAS",
+    "language": "Java",
+    "name": "desafio-tecnico-ras",
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-02-08T21:23:11Z",
+    "url": "https://github.com/lucaslimacodes/desafio-tecnico-ras"
+  },
+  {
+    "archived": false,
+    "desc": "The ESS Base Project is a repository designed to kickstart new projects for the Software Engineering and Systems discipline at CIn-UFPE. It aims to simplify the project initiation process providing a solid base by offering an initial structure, architecture, configurations, and implementation examples.",
+    "language": "TypeScript",
+    "name": "ess-base-project",
+    "stars": 0,
+    "topics": [],
+    "updated": "2025-03-16T14:47:16Z",
+    "url": "https://github.com/lucaslimacodes/ess-base-project"
+  },
+  {
+    "archived": false,
+    "desc": "arquivos contendo as resoluções das questões da lista de IH sobre RISC-V",
+    "language": "Assembly",
+    "name": "listaIH",
+    "stars": 0,
+    "topics": [],
+    "updated": "2023-07-15T01:50:48Z",
+    "url": "https://github.com/lucaslimacodes/listaIH"
+  },
+  {
+    "archived": false,
+    "desc": "Config files for my GitHub profile.",
+    "language": null,
+    "name": "lucaslimacodes",
+    "stars": 1,
+    "topics": [
+      "config",
+      "github-config"
+    ],
+    "updated": "2023-11-23T20:46:26Z",
+    "url": "https://github.com/lucaslimacodes/lucaslimacodes"
+  },
+  {
+    "archived": false,
+    "desc": null,
+    "language": "C++",
+    "name": "Maraca-PSEL",
+    "stars": 0,
+    "topics": [],
+    "updated": "2024-12-08T07:20:26Z",
+    "url": "https://github.com/lucaslimacodes/Maraca-PSEL"
+  },
+  {
+    "archived": false,
+    "desc": null,
+    "language": "JavaScript",
+    "name": "p5_project",
+    "stars": 0,
+    "topics": [],
+    "updated": "2025-07-01T10:17:52Z",
+    "url": "https://github.com/lucaslimacodes/p5_project"
+  },
+  {
+    "archived": false,
+    "desc": null,
+    "language": "Python",
+    "name": "Projeto-Infracom",
+    "stars": 0,
+    "topics": [],
+    "updated": "2024-07-30T22:05:45Z",
+    "url": "https://github.com/lucaslimacodes/Projeto-Infracom"
+  },
+  {
+    "archived": false,
+    "desc": "My first bank project with Java!",
+    "language": "Java",
+    "name": "ProjetoBank",
+    "stars": 0,
+    "topics": [],
+    "updated": "2022-05-24T00:41:20Z",
+    "url": "https://github.com/lucaslimacodes/ProjetoBank"
+  },
+  {
+    "archived": false,
+    "desc": null,
+    "language": "Makefile",
+    "name": "ProjetoIP",
+    "stars": 0,
+    "topics": [],
+    "updated": "2024-03-16T22:25:10Z",
+    "url": "https://github.com/lucaslimacodes/ProjetoIP"
+  },
+  {
+    "archived": false,
+    "desc": "Arquivos base para o projeto da disciplina Infraestrutura de Hardware (IF674) no CIn-UFPE.",
+    "language": null,
+    "name": "Projeto_IH_RISC-V",
+    "stars": 0,
+    "topics": [],
+    "updated": "2023-08-04T23:16:38Z",
+    "url": "https://github.com/lucaslimacodes/Projeto_IH_RISC-V"
+  },
+  {
+    "archived": false,
+    "desc": "Projeto RISC-V da disciplina de IH",
+    "language": "SystemVerilog",
+    "name": "RISC-V-PROJECT",
+    "stars": 0,
+    "topics": [],
+    "updated": "2023-08-11T21:23:05Z",
+    "url": "https://github.com/lucaslimacodes/RISC-V-PROJECT"
+  },
+  {
+    "archived": false,
+    "desc": null,
+    "language": null,
+    "name": "SQL",
+    "stars": 0,
+    "topics": [],
+    "updated": "2024-03-21T14:54:34Z",
+    "url": "https://github.com/lucaslimacodes/SQL"
+  }
+]
