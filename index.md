@@ -66,11 +66,24 @@
 
 ### 7. [desafio-tecnico-ras](https://github.com/lucaslimacodes/desafio-tecnico-ras)
 
-- **Linguagem:** Java
-- **Descrição:** Repositório referente ao desafio técnico do grupo RAS
+> **Wiki DETALHADA disponível.** Esta pasta contém análise completa do código-fonte, modelagem, endpoints, stack, deployment e observações técnicas.
+
+- **Linguagem:** Java (Spring Boot 4.0.2, Java 21)
+- **Descrição:** API de tabela tarifária de água desenvolvida para o desafio técnico do GRUPO RAS (Desenvolvedor de Sistemas Jr.)
 - **Atualizado:** 2026-02-08
 - **Estrelas:** 0
-- ** Página deste wiki:** [repos/desafio-tecnico-ras.md](./repos/desafio-tecnico-ras.md)
+- **Deploy:** https://desafio-tecnico-ras.onrender.com (Render + Supabase)
+- **Swagger:** http://localhost:8080/swagger-ui/index.html (local) | em produção via Render
+
+**Wiki detalhada:** [desafio-tecnico-ras/README.md](./desafio-tecnico-ras/README.md)
+- Modelagem de dados completa (MER, 4 entidades, relacionamentos N:N com chave composta)
+- Stack tecnológica (todas as 12 dependências Maven + Docker)
+- Endpoints REST completos (5 endpoints de tabela + cálculo de consumo com DTO examples)
+- Algoritmo de cálculo de consumo explicado passo a passo
+- Deployment Docker + produção (Render, Supabase)
+- Observações técnicas, quality assessment e técnico debt
+
+---
 
 
 ### 8. [ess-base-project](https://github.com/lucaslimacodes/ess-base-project)
